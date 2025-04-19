@@ -1,0 +1,31 @@
+.fundo{
+    background-color: aquamarine;
+}
+.titulo{
+    color:brown;
+    text-align: center;
+    font-size: 40px;
+        }
+.paragrafo{
+    font-size: 35px;
+    text-align: justify;
+        }
+.lista{
+    line-height: 40px;  
+     }
+.imagem{
+    border-radius: 40px;
+    width: 300px;
+    }
+.tabela{
+    border-color: blue;
+    border-style: outset;
+        }
+.link{font-size: 50px;}
+.link:hover{
+    color: red;
+}  
+.boton{
+    
+
+}   
