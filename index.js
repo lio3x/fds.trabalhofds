@@ -7,5 +7,5 @@ mensajem.addEventListener("click",evento);
 
 function evento(){
 resposta.innerHTML = valor;
-setTimeout (()=>{resposta.innerHTML=''},3000);
+setTimeout (()=>{resposta.innerHTML=''},5000);
 }
